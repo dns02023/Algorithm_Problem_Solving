@@ -1,6 +1,6 @@
+### 2020 KAKAO INTERNSHIP 경주로 건설 ###
+
 import queue
-
-
 def solution(board):
     cost_list = list()
     N = len(board)
